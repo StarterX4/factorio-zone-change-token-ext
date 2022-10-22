@@ -2,8 +2,6 @@
     "name": "Factorio.zone Token Changer",
     "short_name": "FZ/VZ/SZ Token Changer",
     "version": "0.1",
-    "version_name": "0.1",
-    "offline_enabled": false,
     "homepage_url": "https://github.com/StarterX4/factorio-zone-change-token-ext",
     "author": "StarterX4, Rubydesic",
     "description": "Change token on Factorio.zone, Valheim.zone and Satisfactory.zone",
