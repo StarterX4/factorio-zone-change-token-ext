@@ -1,6 +1,7 @@
 # Change Your Factorio Zone Token
 A simple Chromium extension that allows you to change your token on factorio.zone or valheim.zone.
-NO Tampermonkey or another tinkering addons needed.
+
+NO Tampermonkey or other tinkering addons needed.
 
 ## Install from Chrome Web Store
 
@@ -10,7 +11,7 @@ TODO
 
 1. Download [Release ZIP](https://github.com/StarterX4/factorio-zone-change-token-ext/releases/tag/0.1)
 2. Extract it in some safe place (like Documents or some safe Desktop folder)
-3. Go to [chrome://extensions/](chrome://extensions/)
+3. Go to your extensions (chrome://extensions/)
 4. Turn on the "Developer mode" in the top-right corner
 5. Click the "Load unpacked" button in the top-left corner
 6. Select the location of the unpacked extension (it must be the folder that includes the "manifest.json" file)
