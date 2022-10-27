@@ -5,7 +5,7 @@ NO Tampermonkey or other tinkering addons needed.
 
 ## Install from Chrome Web Store
 
-TODO
+https://chrome.google.com/webstore/detail/fz-token-changer/amniehldapjccbahdnjllabaoifgfdcj
 
 ## Install manually
 
