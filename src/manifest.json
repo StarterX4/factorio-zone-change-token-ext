@@ -1,8 +1,8 @@
 {
     "name": "FZ Token Changer",
     "short_name": "FZ/VZ/SZ Token Changer",
-    "version": "0.1",
-    "version_name": "0.1",
+    "version": "0.1.1",
+    "version_name": "0.1.1",
     "offline_enabled": false,
     "homepage_url": "https://github.com/StarterX4/factorio-zone-change-token-ext",
     "author": "StarterX4, Rubydesic",
@@ -18,7 +18,6 @@
 		"256": "icons/icon_256.png",
 		"512": "icons/icon_512.png"
 	},
-    "permissions": [ "scripting" ],
     "content_scripts": [{
         "matches": [ "https://factorio.zone/*", "https://valheim.zone/*", "https://satisfactory.zone/*" ],
         "js": [ "js/sweetalert2.all.min.v10.js", "js/factoriozone-token.js" ]
